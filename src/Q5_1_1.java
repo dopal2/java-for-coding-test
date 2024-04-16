@@ -2,6 +2,7 @@ import java.util.Collections;
 import java.util.Stack;
 
 public class Q5_1_1 {
+    //  5-1 스택 예제
     public static void main(String[] arg) throws Exception{
         Stack<Integer> st = new Stack<Integer>();
         st.push(5);

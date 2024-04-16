@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Q3_4 {
+    //  실전문제 4 1이 될 때까지
     public static void main(String[] arg) throws Exception{
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

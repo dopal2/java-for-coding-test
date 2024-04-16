@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Q4_1_1{
+    //  예제 4-1 상하좌우
+    //  
+    //  
     public static void main(String[] arg) throws Exception{
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

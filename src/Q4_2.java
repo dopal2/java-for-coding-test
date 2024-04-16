@@ -2,6 +2,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Q4_2 {
+    //  실전문제 2 왕실의 나이트
+    //  
+    //  
     public static void main(String[] arg) throws Exception{
         Scanner sc = new Scanner(System.in);
         String str = sc.next();

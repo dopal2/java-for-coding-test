@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Q4_1_2 {
+    //  예제 4-2 시각
+    //  
+    //  
     public static boolean check(int h, int m, int s) {
         if (h % 10 == 3 || m / 10 == 3 || m % 10 == 3 || s / 10 == 3 || s % 10 == 3)
             return true;

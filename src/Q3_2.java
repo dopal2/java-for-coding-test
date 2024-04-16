@@ -2,6 +2,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Q3_2 {
+    // 실전문제 2 큰 수 법칙
+    //
+    //
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

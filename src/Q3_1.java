@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Q3_1 {
+    //  예제 3-1 거스름돈
+    //
+    //
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int[] arr = {500,100,50,10};

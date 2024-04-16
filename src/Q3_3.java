@@ -2,6 +2,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Q3_3{
+    //  실전문제 3 숫자 카드 게임
+    //  
+    //  
     public static void main(String[] arg) throws Exception{
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
