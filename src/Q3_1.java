@@ -14,5 +14,6 @@ public class Q3_1 {
             num = num%coin;
         }
         System.out.println(answer);
+        
     }
 }
